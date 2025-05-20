@@ -8,5 +8,5 @@
 - thunar
 - picom
   
+![image](https://github.com/user-attachments/assets/33942d84-1296-4320-a504-9e620c7f83af)
 
-![image](https://github.com/user-attachments/assets/d8ea1c36-8662-47b9-b884-f4999e4bf3e2)
